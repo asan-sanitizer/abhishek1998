@@ -8,11 +8,8 @@ I am Abhishek Raturi, an aspiring web developer who specializes in Java based in
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishek1998&show_icons=true)
 
-## Personal Website: 
-### https://araturi.me
-
-## Linkedin 
-### https://www.linkedin.com/in/abhishek-r-7bb907118/
+## Personal Website  | Linkedin
+### https://araturi.me   |   https://www.linkedin.com/in/abhishek-r-7bb907118/
 
 ## Interest
 - **Golang**
