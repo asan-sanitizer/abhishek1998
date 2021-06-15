@@ -7,7 +7,7 @@
 I am Abhishek Raturi, an aspiring web developer who specializes in Java based in **Toronto, Canada** script, React Js, Node Js and MongoDB. I have always been interested in programming since I was introduced to it in high school. This prompted me to learn and explore various programming languages as well as build some projects. This continued during my college years where I got to learn about various software stack ranging from ASP Dotnet , React JS, Node JS, MongoDB , Android as well as AWS services such sa S3, DynamoDB.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishek1998&show_icons=true)
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?abhishek1998" frameborder="0"></iframe>
+
 ## Personal Website: 
 ### https://araturi.me
 
