@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/15072510/122133071-0db6a300-ce0a-11eb-8efa-24ef43b0fb8a.jpg" width="400" height="400"> | <img src="https://user-images.githubusercontent.com/15072510/122133153-2e7ef880-ce0a-11eb-86b5-36728561a2fe.jpg" width="400" height="400"> | <img src="https://user-images.githubusercontent.com/15072510/122133276-5d956a00-ce0a-11eb-94de-66bec50f4373.jpg" width="400" height="400"> | <img src="https://user-images.githubusercontent.com/15072510/122133656-22e00180-ce0b-11eb-81dd-4e111b4365b5.jpg" width="400" height="400">
+ <img src="https://user-images.githubusercontent.com/15072510/122133656-22e00180-ce0b-11eb-81dd-4e111b4365b5.jpg" width="600" height="400">
 
 
 ## About Me
