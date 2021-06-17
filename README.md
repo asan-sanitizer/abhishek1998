@@ -4,6 +4,8 @@
 ## About Me
 I am Abhishek Raturi, an aspiring web developer who specializes in Java based in **Toronto, Canada** script, React Js, Node Js and MongoDB. I have always been interested in programming since I was introduced to it in high school. This prompted me to learn and explore various programming languages as well as build some projects. This continued during my college years where I got to learn about various software stack ranging from ASP Dotnet , React JS, Node JS, MongoDB , Android as well as AWS services such sa S3, DynamoDB.
 
+### Available for Hire (Web Development Stack)
+
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
@@ -34,4 +36,3 @@ I am Abhishek Raturi, an aspiring web developer who specializes in Java based in
 
 ## How to reach me: raturiabhi1000@gmail.com
 
-### Available for Hire (Web Development Stack)
