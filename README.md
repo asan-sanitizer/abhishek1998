@@ -2,7 +2,7 @@
 
 
 ## About Me
-I am Abhishek Raturi, an aspiring web developer who specializes in JavaScript based web framework React Js, Node Js and MongoDB. I have always been interested in programming since I was introduced to it in high school. This prompted me to learn and explore various programming languages as well as build some projects. This continued during my college years where I got to learn about various software stack ranging from ASP Dotnet , React JS, Node JS, MongoDB , Android as well as AWS services such as S3, DynamoDB.
+I am Abhishek , an aspiring web developer who specializes in JavaScript based web framework React Js, Node Js and MongoDB. I have always been interested in programming since I was introduced to it in high school. This prompted me to learn and explore various programming languages as well as build some projects. This continued during my college years where I got to learn about various software stack ranging from ASP .NET , React JS, Node JS, MongoDB , Android as well as AWS services such as S3, DynamoDB.
 
 ### Available for Hire (Web Development Stack)
 
