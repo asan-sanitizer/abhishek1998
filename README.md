@@ -6,14 +6,12 @@ I am Abhishek Raturi, an aspiring web developer who specializes in Java based in
 
 ### Available for Hire (Web Development Stack)
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=appveyor&logo=react&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Redux-informational?style=for-the-badge&logo=Redux&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-CSharp-informational?style=for-the-badge&logo=c-sharp&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-.NET-informational?style=for-the-badge&logo=.net&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=for-the-badge&logo=MongoDB&logoColor=white&color=4AB197)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishek1998&show_icons=true)
 <br/>
